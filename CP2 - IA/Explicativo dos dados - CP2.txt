@@ -1,0 +1,27 @@
+MargemBrutaAcumulada - A margem bruta mede a lucratividade de uma empresa antes de considerar outras informações financeiras, como custos operacionais, despesas gerais e administrativas. Ou seja, essa métrica indica o valor disponível para cobrir os custos fixos e gerar lucro.
+
+ValorSolicitado - Quanto a empresa solicitou de crédito.
+
+AtivoCirculante - O ativo circulante é o conjunto de bens e direitos que podem ser convertidos em dinheiro no considerado ano fiscal da empresa;
+
+PassivoCirculante - É o conjunto de obrigações a serem cumpridas e de dívidas a serem quitadas por uma empresa sempre no curto prazo - menos de 12 meses.
+
+totalAtivo - O ativo total de uma empresa é a soma de todos os seus ativos, ou seja, seus bens e direitos. Dessa forma, inclui o ativo circulante, realizável a longo prazo e permanente, também chamado de não circulante. A definição de ativo na contabilidade é o conjunto de bens e direitos da organização.
+
+totalPatrimonioLiquido - Resumindo, o patrimônio líquido é o resultado da diferença entre o ativo e o passivo de uma empresa ou indivíduo (patrimônio líquido = ativo – passivo). É justamente esse valor que encontramos nos balanços patrimoniais das empresas. De um lado, temos o ativo (circulante e não circulante), do outro, o passivo.
+
+endividamento - O endividamento existe quando há empréstimos em aberto e compras parceladas no cartão de crédito, parcelas de empréstimos ou até mesmo boletos.
+
+duplicatasAReceber - Duplicatas a receber são os valores que uma empresa possui a receber de suas vendas a prazo de mercadorias ou serviços relacionados à sua atividade. Esses valores correspondem às quantias devidas pelos clientes que ainda não foram recebidas.
+
+estoque - Estoque informado na documentação da empresa 
+
+faturamentoBruto -  O faturamento bruto é o valor total que o negócio recebe por meio de vendas de produtos ou prestação de serviços.
+
+margemBruta - Ela desempenha um papel crucial na avaliação da eficiência operacional e na tomada de decisões estratégicas. Também conhecida como margem de lucro bruto, trata-se da diferença entre a receita total e os custos e despesas relacionados à produção
+
+custo - Custo é um gasto relativo ao bem ou serviço utilizado na produção de outros bens, ou serviços
+
+capitalSocial - O Capital Social é o poder financeiro de uma empresa, o montante investido pelos sócios quando o negócio ainda estava no início de suas atividades.
+
+empresa_MeEppMei - Flag informando se o cliente é pequeno negócio; ME, EPP e MEI são classificações.

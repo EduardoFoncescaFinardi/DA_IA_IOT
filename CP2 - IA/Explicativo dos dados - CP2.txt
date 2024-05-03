@@ -25,3 +25,5 @@ custo - Custo é um gasto relativo ao bem ou serviço utilizado na produção de
 capitalSocial - O Capital Social é o poder financeiro de uma empresa, o montante investido pelos sócios quando o negócio ainda estava no início de suas atividades.
 
 empresa_MeEppMei - Flag informando se o cliente é pequeno negócio; ME, EPP e MEI são classificações.
+
+titulosEmAberto -  Boletos ainda dentro do prazo de pagamento que ainda não foram pagos;

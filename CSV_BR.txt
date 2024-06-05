@@ -1,201 +1,201 @@
 id_relato,blob_foto,ds_relato,nr_latitude,nr_longitude,boolean_praia_suja,boolean_envolve_animais,dt_hr_relato,nr_likes,id_usuario
-1,0x1A2B3C,Lixo espalhado pela areia,-2.5333,-44.3028,1,0,15/01/2020,45,3
-2,0x2B3C4D,Tartaruga presa em rede de pesca,-12.9714,-38.5014,0,1,01/02/2020,67,5
-3,0x3C4D5E,Grande quantidade de lixo na praia,-7.1150,-34.8631,1,0,15/03/2020,23,7
-4,0x4D5E6F,Golfinhos encalhados na praia,-22.9068,-43.1729,0,1,01/04/2020,89,2
-5,0x5E6F7G,Sacos de lixo deixados na areia,-16.4090,-39.0713,1,0,15/05/2020,12,4
-6,0x6F7G8H,Ave marinha ferida na praia,-3.7172,-38.5434,0,1,01/06/2020,34,6
-7,0x7G8H9I,Resíduos plásticos na areia,-20.3155,-40.3128,1,0,15/07/2020,56,8
-8,0x8H9I0J,Concentração de águas-vivas perto da costa,-30.0346,-51.2177,0,1,01/08/2020,78,1
-9,0x9I0J1K,Lixo e tartaruga presa em rede de pesca,-13.0042,-38.4946,1,1,15/09/2020,90,9
-10,0x0J1K2L,Lixo espalhado pela areia,-25.4284,-49.2733,1,0,01/10/2020,11,10
-11,0x1K2L3M,Grande quantidade de lixo na praia,-27.5954,-48.5480,1,0,15/11/2020,22,3
-12,0x2L3M4N,Golfinhos encalhados na praia,-8.0476,-34.8770,0,1,01/12/2020,33,5
-13,0x3M4N5O,Sacos de lixo deixados na areia,-23.5505,-46.6333,1,0,15/01/2021,44,7
-14,0x4N5O6P,Ave marinha ferida na praia,-2.5333,-44.3028,0,1,01/02/2021,55,2
-15,0x5O6P7Q,Resíduos plásticos na areia,-12.9714,-38.5014,1,0,15/03/2021,66,4
-16,0x6P7Q8R,Concentração de águas-vivas perto da costa,-7.1150,-34.8631,0,1,01/04/2021,77,6
-17,0x7Q8R9S,Lixo e tartaruga presa em rede de pesca,-22.9068,-43.1729,1,1,15/05/2021,88,8
-18,0x8R9S0T,Lixo espalhado pela areia,-16.4090,-39.0713,1,0,01/06/2021,99,10
-19,0x9S0T1U,Grande quantidade de lixo na praia,-3.7172,-38.5434,1,0,15/07/2021,11,3
-20,0x0T1U2V,Golfinhos encalhados na praia,-20.3155,-40.3128,0,1,01/08/2021,22,5
-21,0x1U2V3W,Sacos de lixo deixados na areia,-30.0346,-51.2177,1,0,15/09/2021,33,7
-22,0x2V3W4X,Ave marinha ferida na praia,-13.0042,-38.4946,0,1,01/10/2021,44,2
-23,0x3W4X5Y,Resíduos plásticos na areia,-25.4284,-49.2733,1,0,15/11/2021,55,4
-24,0x4X5Y6Z,Concentração de águas-vivas perto da costa,-27.5954,-48.5480,0,1,01/12/2021,66,6
-25,0x5Y6Z7A,Lixo e tartaruga presa em rede de pesca,-8.0476,-34.8770,1,1,15/01/2022,77,8
-26,0x6Z7A8B,Lixo espalhado pela areia,-23.5505,-46.6333,1,0,01/02/2022,88,10
-27,0x7A8B9C,Grande quantidade de lixo na praia,-2.5333,-44.3028,1,0,15/03/2022,99,3
-28,0x8B9C0D,Golfinhos encalhados na praia,-12.9714,-38.5014,0,1,01/04/2022,11,5
-29,0x9C0D1E,Sacos de lixo deixados na areia,-7.1150,-34.8631,1,0,15/05/2022,22,7
-30,0x0D1E2F,Ave marinha ferida na praia,-22.9068,-43.1729,0,1,01/06/2022,33,2
-31,0x1E2F3G,Resíduos plásticos na areia,-16.4090,-39.0713,1,0,15/07/2022,44,4
-32,0x2F3G4H,Concentração de águas-vivas perto da costa,-3.7172,-38.5434,0,1,01/08/2022,55,6
-33,0x3G4H5I,Lixo e tartaruga presa em rede de pesca,-20.3155,-40.3128,1,1,15/09/2022,66,8
-34,0x4H5I6J,Lixo espalhado pela areia,-30.0346,-51.2177,1,0,01/10/2022,77,10
-35,0x5I6J7K,Grande quantidade de lixo na praia,-13.0042,-38.4946,1,0,15/11/2022,88,3
-36,0x6J7K8L,Golfinhos encalhados na praia,-25.4284,-49.2733,0,1,01/12/2022,99,5
-37,0x7K8L9M,Sacos de lixo deixados na areia,-27.5954,-48.5480,1,0,15/01/2023,11,7
-38,0x8L9M0N,Ave marinha ferida na praia,-8.0476,-34.8770,0,1,01/02/2023,22,2
-39,0x9M0N1O,Resíduos plásticos na areia,-23.5505,-46.6333,1,0,15/03/2023,33,4
-40,0x0N1O2P,Concentração de águas-vivas perto da costa,-2.5333,-44.3028,0,1,01/04/2023,44,6
-41,0x1O2P3Q,Lixo e tartaruga presa em rede de pesca,-12.9714,-38.5014,1,1,15/05/2023,55,8
-42,0x2P3Q4R,Lixo espalhado pela areia,-7.1150,-34.8631,1,0,01/06/2023,66,10
-43,0x3Q4R5S,Grande quantidade de lixo na praia,-22.9068,-43.1729,1,0,15/07/2023,77,3
-44,0x4R5S6T,Golfinhos encalhados na praia,-16.4090,-39.0713,0,1,01/08/2023,88,5
-45,0x5S6T7U,Sacos de lixo deixados na areia,-3.7172,-38.5434,1,0,15/09/2023,99,7
-46,0x6T7U8V,Ave marinha ferida na praia,-20.3155,-40.3128,0,1,01/10/2023,11,2
-47,0x7U8V9W,Resíduos plásticos na areia,-30.0346,-51.2177,1,0,15/11/2023,22,4
-48,0x8V9W0X,Concentração de águas-vivas perto da costa,-13.0042,-38.4946,0,1,01/12/2023,33,6
-49,0x9W0X1Y,Lixo e tartaruga presa em rede de pesca,-25.4284,-49.2733,1,1,15/01/2024,44,8
-50,0x0X1Y2Z,Lixo espalhado pela areia,-27.5954,-48.5480,1,0,01/02/2024,55,10
-51,0x1Y2Z3A,Grande quantidade de lixo na praia,-8.0476,-34.8770,1,0,15/03/2024,66,3
-52,0x2Z3A4B,Golfinhos encalhados na praia,-23.5505,-46.6333,0,1,01/04/2024,77,5
-53,0x3A4B5C,Sacos de lixo deixados na areia,-2.5333,-44.3028,1,0,15/05/2024,88,7
-54,0x4B5C6D,Ave marinha ferida na praia,-12.9714,-38.5014,0,1,01/06/2024,99,2
-55,0x5C6D7E,Resíduos plásticos na areia,-7.1150,-34.8631,1,0,15/07/2024,11,4
-56,0x6D7E8F,Concentração de águas-vivas perto da costa,-22.9068,-43.1729,0,1,01/08/2024,22,6
-57,0x7E8F9G,Lixo e tartaruga presa em rede de pesca,-16.4090,-39.0713,1,1,15/09/2024,33,8
-58,0x8F9G0H,Lixo espalhado pela areia,-3.7172,-38.5434,1,0,01/10/2024,44,10
-59,0x9G0H1I,Grande quantidade de lixo na praia,-20.3155,-40.3128,1,0,15/11/2024,55,3
-60,0x0H1I2J,Golfinhos encalhados na praia,-30.0346,-51.2177,0,1,01/12/2024,66,5
-61,0x1I2J3K,Sacos de lixo deixados na areia,-13.0042,-38.4946,1,0,15/01/2020,77,7
-62,0x2J3K4L,Ave marinha ferida na praia,-25.4284,-49.2733,0,1,01/02/2020,88,2
-63,0x3K4L5M,Resíduos plásticos na areia,-27.5954,-48.5480,1,0,15/03/2020,99,4
-64,0x4L5M6N,Concentração de águas-vivas perto da costa,-8.0476,-34.8770,0,1,01/04/2020,11,6
-65,0x5M6N7O,Lixo e tartaruga presa em rede de pesca,-23.5505,-46.6333,1,1,15/05/2020,22,8
-66,0x6N7O8P,Lixo espalhado pela areia,-2.5333,-44.3028,1,0,01/06/2020,33,10
-67,0x7O8P9Q,Grande quantidade de lixo na praia,-12.9714,-38.5014,1,0,15/07/2020,44,3
-68,0x8P9Q0R,Golfinhos encalhados na praia,-7.1150,-34.8631,0,1,01/08/2020,55,5
-69,0x9Q0R1S,Sacos de lixo deixados na areia,-22.9068,-43.1729,1,0,15/09/2020,66,7
-70,0x0R1S2T,Ave marinha ferida na praia,-16.4090,-39.0713,0,1,01/10/2020,77,2
-71,0x1S2T3U,Resíduos plásticos na areia,-3.7172,-38.5434,1,0,15/11/2020,88,4
-72,0x2T3U4V,Concentração de águas-vivas perto da costa,-20.3155,-40.3128,0,1,01/12/2020,99,6
-73,0x3U4V5W,Lixo e tartaruga presa em rede de pesca,-30.0346,-51.2177,1,1,15/01/2021,11,8
-74,0x4V5W6X,Lixo espalhado pela areia,-13.0042,-38.4946,1,0,01/02/2021,22,10
-75,0x5W6X7Y,Grande quantidade de lixo na praia,-25.4284,-49.2733,1,0,15/03/2021,33,3
-76,0x6X7Y8Z,Golfinhos encalhados na praia,-27.5954,-48.5480,0,1,01/04/2021,44,5
-77,0x7Y8Z9A,Sacos de lixo deixados na areia,-8.0476,-34.8770,1,0,15/05/2021,55,7
-78,0x8Z9A0B,Ave marinha ferida na praia,-23.5505,-46.6333,0,1,01/06/2021,66,2
-79,0x9A0B1C,Resíduos plásticos na areia,-2.5333,-44.3028,1,0,15/07/2021,77,4
-80,0x0B1C2D,Concentração de águas-vivas perto da costa,-12.9714,-38.5014,0,1,01/08/2021,88,6
-81,0x1C2D3E,Lixo e tartaruga presa em rede de pesca,-7.1150,-34.8631,1,1,15/09/2021,99,8
-82,0x2D3E4F,Lixo espalhado pela areia,-22.9068,-43.1729,1,0,01/10/2021,11,10
-83,0x3E4F5G,Grande quantidade de lixo na praia,-16.4090,-39.0713,1,0,15/11/2021,22,3
-84,0x4F5G6H,Golfinhos encalhados na praia,-3.7172,-38.5434,0,1,01/12/2021,33,5
-85,0x5G6H7I,Sacos de lixo deixados na areia,-20.3155,-40.3128,1,0,15/01/2022,44,7
-86,0x6H7I8J,Ave marinha ferida na praia,-30.0346,-51.2177,0,1,01/02/2022,55,2
-87,0x7I8J9K,Resíduos plásticos na areia,-13.0042,-38.4946,1,0,15/03/2022,66,4
-88,0x7U8V9W,Lixo e tartaruga presa em rede de pesca,-25.4284,-49.2733,1,1,15/03/2022,66,4
-89,0x9K0L1M,Lixo e tartaruga presa em rede de pesca,-27.5954,-48.5480,1,1,01/04/2022,77,6
-90,0x0L1M2N,Lixo espalhado pela areia,-8.0476,-34.8770,1,0,15/05/2022,88,8
-91,0x1M2N3O,Grande quantidade de lixo na praia,-23.5505,-46.6333,1,0,01/06/2022,99,10
-92,0x2N3O4P,Golfinhos encalhados na praia,-2.5333,-44.3028,0,1,15/07/2022,11,3
-93,0x3O4P5Q,Sacos de lixo deixados na areia,-12.9714,-38.5014,1,0,01/08/2022,22,5
-94,0x4P5Q6R,Ave marinha ferida na praia,-7.1150,-34.8631,0,1,15/09/2022,33,7
-95,0x5Q6R7S,Resíduos plásticos na areia,-22.9068,-43.1729,1,0,01/10/2022,44,2
-96,0x6R7S8T,Concentração de águas-vivas perto da costa,-16.4090,-39.0713,0,1,15/11/2022,55,4
-97,0x7S8T9U,Lixo e tartaruga presa em rede de pesca,-3.7172,-38.5434,1,1,01/12/2022,66,6
-98,0x8T9U0V,Lixo espalhado pela areia,-20.3155,-40.3128,1,0,15/01/2023,77,8
-99,0x9U0V1W,Grande quantidade de lixo na praia,-30.0346,-51.2177,1,0,01/02/2023,88,10
-100,0x0V1W2X,Golfinhos encalhados na praia,-13.0042,-38.4946,0,1,15/03/2023,99,3
-101,0x1W2X3Y,Sacos de lixo deixados na areia,-25.4284,-49.2733,1,0,01/04/2023,11,5
-102,0x2X3Y4Z,Ave marinha ferida na praia,-27.5954,-48.5480,0,1,15/05/2023,22,7
-103,0x3Y4Z5A,Resíduos plásticos na areia,-8.0476,-34.8770,1,0,01/06/2023,33,2
-104,0x4Z5A6B,Concentração de águas-vivas perto da costa,-23.5505,-46.6333,0,1,15/07/2023,44,4
-105,0x5A6B7C,Lixo e tartaruga presa em rede de pesca,-2.5333,-44.3028,1,1,01/08/2023,55,6
-106,0x6B7C8D,Lixo espalhado pela areia,-12.9714,-38.5014,1,0,15/09/2023,66,8
-107,0x7C8D9E,Grande quantidade de lixo na praia,-7.1150,-34.8631,1,0,01/10/2023,77,10
-108,0x8D9E0F,Golfinhos encalhados na praia,-22.9068,-43.1729,0,1,15/11/2023,88,3
-109,0x9E0F1G,Sacos de lixo deixados na areia,-16.4090,-39.0713,1,0,01/12/2023,99,5
-110,0x0F1G2H,Ave marinha ferida na praia,-3.7172,-38.5434,0,1,15/01/2024,11,7
-111,0x1G2H3I,Resíduos plásticos na areia,-20.3155,-40.3128,1,0,01/02/2024,22,2
-112,0x2H3I4J,Concentração de águas-vivas perto da costa,-30.0346,-51.2177,0,1,15/03/2024,33,4
-113,0x3I4J5K,Lixo e tartaruga presa em rede de pesca,-13.0042,-38.4946,1,1,01/04/2024,44,6
-114,0x4J5K6L,Lixo espalhado pela areia,-25.4284,-49.2733,1,0,15/05/2024,55,8
-115,0x5K6L7M,Grande quantidade de lixo na praia,-27.5954,-48.5480,1,0,01/06/2024,66,10
-116,0x6L7M8N,Golfinhos encalhados na praia,-8.0476,-34.8770,0,1,15/07/2024,77,3
-117,0x7M8N9O,Sacos de lixo deixados na areia,-23.5505,-46.6333,1,0,01/08/2024,88,5
-118,0x8N9O0P,Ave marinha ferida na praia,-2.5333,-44.3028,0,1,15/09/2024,99,7
-119,0x9O0P1Q,Resíduos plásticos na areia,-12.9714,-38.5014,1,0,01/10/2024,11,2
-120,0x0P1Q2R,Concentração de águas-vivas perto da costa,-7.1150,-34.8631,0,1,15/11/2024,22,4
-121,0x1Q2R3S,Lixo e tartaruga presa em rede de pesca,-22.9068,-43.1729,1,1,01/12/2024,33,6
-122,0x2R3S4T,Lixo espalhado pela areia,-16.4090,-39.0713,1,0,15/01/2020,44,8
-123,0x3S4T5U,Grande quantidade de lixo na praia,-3.7172,-38.5434,1,0,01/02/2020,55,10
-124,0x4T5U6V,Golfinhos encalhados na praia,-20.3155,-40.3128,0,1,15/03/2020,66,3
-125,0x5U6V7W,Sacos de lixo deixados na areia,-30.0346,-51.2177,1,0,01/04/2020,77,5
-126,0x6V7W8X,Ave marinha ferida na praia,-13.0042,-38.4946,0,1,15/05/2020,88,7
-127,0x7W8X9Y,Resíduos plásticos na areia,-25.4284,-49.2733,1,0,01/06/2020,99,2
-128,0x8X9Y0Z,Concentração de águas-vivas perto da costa,-27.5954,-48.5480,0,1,15/07/2020,11,4
-129,0x9Y0Z1A,Lixo e tartaruga presa em rede de pesca,-8.0476,-34.8770,1,1,01/08/2020,22,6
-130,0x0Z1A2B,Lixo espalhado pela areia,-23.5505,-46.6333,1,0,15/09/2020,33,8
-131,0x1A2B3C,Grande quantidade de lixo na praia,-2.5333,-44.3028,1,0,01/10/2020,44,10
-132,0x2B3C4D,Golfinhos encalhados na praia,-12.9714,-38.5014,0,1,15/11/2020,55,3
-133,0x3C4D5E,Sacos de lixo deixados na areia,-7.1150,-34.8631,1,0,01/12/2020,66,5
-134,0x4D5E6F,Ave marinha ferida na praia,-22.9068,-43.1729,0,1,15/01/2021,77,7
-135,0x5E6F7G,Resíduos plásticos na areia,-16.4090,-39.0713,1,0,01/02/2021,88,2
-136,0x6F7G8H,Concentração de águas-vivas perto da costa,-3.7172,-38.5434,0,1,15/03/2021,99,4
-137,0x7G8H9I,Lixo e tartaruga presa em rede de pesca,-20.3155,-40.3128,1,1,01/04/2021,11,6
-138,0x8H9I0J,Lixo espalhado pela areia,-30.0346,-51.2177,1,0,15/05/2021,22,8
-139,0x9I0J1K,Grande quantidade de lixo na praia,-13.0042,-38.4946,1,0,01/06/2021,33,10
-140,0x0J1K2L,Golfinhos encalhados na praia,-25.4284,-49.2733,0,1,15/07/2021,44,3
-141,0x1K2L3M,Sacos de lixo deixados na areia,-27.5954,-48.5480,1,0,01/08/2021,55,5
-142,0x2L3M4N,Ave marinha ferida na praia,-8.0476,-34.8770,0,1,15/09/2021,66,7
-143,0x3M4N5O,Resíduos plásticos na areia,-23.5505,-46.6333,1,0,01/10/2021,77,2
-144,0x4N5O6P,Concentração de águas-vivas perto da costa,-2.5333,-44.3028,0,1,15/11/2021,88,4
-145,0x5O6P7Q,Lixo e tartaruga presa em rede de pesca,-12.9714,-38.5014,1,1,01/12/2021,99,6
-146,0x6P7Q8R,Lixo espalhado pela areia,-7.1150,-34.8631,1,0,15/01/2022,11,8
-147,0x7Q8R9S,Grande quantidade de lixo na praia,-22.9068,-43.1729,1,0,01/02/2022,22,10
-148,0x8R9S0T,Golfinhos encalhados na praia,-16.4090,-39.0713,0,1,15/03/2022,33,3
-149,0x9S0T1U,Sacos de lixo deixados na areia,-3.7172,-38.5434,1,0,01/04/2022,44,5
-150,0x0T1U2V,Ave marinha ferida na praia,-20.3155,-40.3128,0,1,15/05/2022,55,7
-151,0x1U2V3W,Resíduos plásticos na areia,-30.0346,-51.2177,1,0,01/06/2022,66,2
-152,0x2V3W4X,Concentração de águas-vivas perto da costa,-13.0042,-38.4946,0,1,15/07/2022,77,4
-153,0x3W4X5Y,Lixo e tartaruga presa em rede de pesca,-25.4284,-49.2733,1,1,01/08/2022,88,6
-154,0x4X5Y6Z,Lixo espalhado pela areia,-27.5954,-48.5480,1,0,15/09/2022,99,8
-155,0x5Y6Z7A,Grande quantidade de lixo na praia,-8.0476,-34.8770,1,0,01/10/2022,11,10
-156,0x6Z7A8B,Golfinhos encalhados na praia,-23.5505,-46.6333,0,1,15/11/2022,22,3
-157,0x7A8B9C,Sacos de lixo deixados na areia,-2.5333,-44.3028,1,0,01/12/2022,33,5
-158,0x8B9C0D,Ave marinha ferida na praia,-12.9714,-38.5014,0,1,15/01/2023,44,7
-159,0x9C0D1E,Resíduos plásticos na areia,-7.1150,-34.8631,1,0,01/02/2023,55,2
-160,0x0D1E2F,Concentração de águas-vivas perto da costa,-22.9068,-43.1729,0,1,15/03/2023,66,4
-161,0x1E2F3G,Lixo e tartaruga presa em rede de pesca,-16.4090,-39.0713,1,1,01/04/2023,77,6
-162,0x2F3G4H,Lixo espalhado pela areia,-3.7172,-38.5434,1,0,15/05/2023,88,8
-163,0x3G4H5I,Grande quantidade de lixo na praia,-20.3155,-40.3128,1,0,01/06/2023,99,10
-164,0x4H5I6J,Golfinhos encalhados na praia,-30.0346,-51.2177,0,1,15/07/2023,11,3
-165,0x5I6J7K,Sacos de lixo deixados na areia,-13.0042,-38.4946,1,0,01/08/2023,22,5
-166,0x6J7K8L,Ave marinha ferida na praia,-25.4284,-49.2733,0,1,15/09/2023,33,7
-167,0x7K8L9M,Resíduos plásticos na areia,-27.5954,-48.5480,1,0,01/10/2023,44,2
-168,0x8L9M0N,Concentração de águas-vivas perto da costa,-8.0476,-34.8770,0,1,15/11/2023,55,4
-169,0x9M0N1O,Lixo e tartaruga presa em rede de pesca,-23.5505,-46.6333,1,1,01/12/2023,66,6
-170,0x0N1O2P,Lixo espalhado pela areia,-2.5333,-44.3028,1,0,15/01/2024,77,8
-171,0x1O2P3Q,Grande quantidade de lixo na praia,-12.9714,-38.5014,1,0,01/02/2024,88,10
-172,0x2P3Q4R,Golfinhos encalhados na praia,-7.1150,-34.8631,0,1,15/03/2024,99,3
-173,0x3Q4R5S,Sacos de lixo deixados na areia,-22.9068,-43.1729,1,0,01/04/2024,11,5
-174,0x4R5S6T,Ave marinha ferida na praia,-16.4090,-39.0713,0,1,15/05/2024,22,7
-175,0x5S6T7U,Resíduos plásticos na areia,-3.7172,-38.5434,1,0,01/06/2024,33,2
-176,0x6T7U8V,Concentração de águas-vivas perto da costa,-20.3155,-40.3128,0,1,15/07/2024,44,4
-177,0x7U8V9W,Lixo e tartaruga presa em rede de pesca,-30.0346,-51.2177,1,1,01/08/2024,55,6
-178,0x8V9W0X,Lixo espalhado pela areia,-13.0042,-38.4946,1,0,15/09/2024,66,8
-179,0x9W0X1Y,Grande quantidade de lixo na praia,-25.4284,-49.2733,1,0,01/10/2024,77,10
-180,0x0X1Y2Z,Golfinhos encalhados na praia,-27.5954,-48.5480,0,1,15/11/2024,88,3
-181,0x1Y2Z3A,Sacos de lixo deixados na areia,-8.0476,-34.8770,1,0,01/12/2024,99,5
-182,0x2Z3A4B,Ave marinha ferida na praia,-23.5505,-46.6333,0,1,15/01/2020,11,7
-183,0x3A4B5C,Resíduos plásticos na areia,-2.5333,-44.3028,1,0,01/02/2020,22,2
-184,0x4B5C6D,Concentração de águas-vivas perto da costa,-12.9714,-38.5014,0,1,15/03/2020,33,4
-185,0x5C6D7E,Lixo e tartaruga presa em rede de pesca,-7.1150,-34.8631,1,1,01/04/2020,44,6
-186,0x6D7E8F,Lixo espalhado pela areia,-22.9068,-43.1729,1,0,15/05/2020,55,8
-187,0x7E8F9G,Grande quantidade de lixo na praia,-16.4090,-39.0713,1,0,01/06/2020,66,10
-188,0x8F9G0H,Golfinhos encalhados na praia,-3.7172,-38.5434,0,1,15/07/2020,77,3
-189,0x9G0H1I,Sacos de lixo deixados na areia,-20.3155,-40.3128,1,0,01/08/2020,88,5
-190,0x0H1I2J,Ave marinha ferida na praia,-30.0346,-51.2177,0,1,15/09/2020,99,7
-191,0x1I2J3K,Resíduos plásticos na areia,-13.0042,-38.4946,1,0,01/10/2020,11,2
-192,0x2J3K4L,Concentração de águas-vivas perto da costa,-25.4284,-49.2733,0,1,15/11/2020,22,4
-193,0x3K4L5M,Lixo e tartaruga presa em rede de pesca,-27.5954,-48.5480,1,1,01/12/2020,33,6
-194,0x4L5M6N,Lixo espalhado pela areia,-8.0476,-34.8770,1,0,15/01/2021,44,8
-195,0x5M6N7O,Grande quantidade de lixo na praia,-23.5505,-46.6333,1,0,01/02/2021,55,10
-196,0x6N7O8P,Golfinhos encalhados na praia,-2.5333,-44.3028,0,1,15/03/2021,66,3
-197,0x7O8P9Q,Sacos de lixo deixados na areia,-12.9714,-38.5014,1,0,01/04/2021,77,5
-198,0x8P9Q0R,Ave marinha ferida na praia,-7.1150,-34.8631,0,1,15/05/2021,88,7
-199,0x9Q0R1S,Resíduos plásticos na areia,-22.9068,-43.1729,1,0,01/06/2021,99,2
-200,0x0R1S2T,Concentração de águas-vivas perto da costa,-16.4090,-39.0713,0,1,15/07/2021,11,4
+1,0x1A2B3C,Lixo espalhado pela areia,-25.718018,-48.751337,1,0,15/01/2020,45,3
+2,0x2B3C4D,Tartaruga presa em rede de pesca,-25.621137368421053,-48.629050210526316,0,1,01/02/2020,67,5
+3,0x3C4D5E,Grande quantidade de lixo na praia,-25.524256736842105,-48.50676342105263,1,0,15/03/2020,23,7
+4,0x4D5E6F,Golfinhos encalhados na praia,-25.427376105263157,-48.38447663157895,0,1,01/04/2020,89,2
+5,0x5E6F7G,Sacos de lixo deixados na areia,-25.330495473684213,-48.262189842105265,1,0,15/05/2020,12,4
+6,0x6F7G8H,Ave marinha ferida na praia,-25.233614842105265,-48.13990305263158,0,1,01/06/2020,34,6
+7,0x7G8H9I,Resíduos plásticos na areia,-25.136734210526317,-48.0176162631579,1,0,15/07/2020,56,8
+8,0x8H9I0J,Concentração de águas-vivas perto da costa,-25.03985357894737,-47.895329473684214,0,1,01/08/2020,78,1
+9,0x9I0J1K,Lixo e tartaruga presa em rede de pesca,-24.94297294736842,-47.77304268421053,1,1,15/09/2020,90,9
+10,0x0J1K2L,Lixo espalhado pela areia,-24.846092315789473,-47.65075589473685,1,0,01/10/2020,11,10
+11,0x1K2L3M,Grande quantidade de lixo na praia,-24.74921168421053,-47.528469105263156,1,0,15/11/2020,22,3
+12,0x2L3M4N,Golfinhos encalhados na praia,-24.65233105263158,-47.40618231578947,0,1,01/12/2020,33,5
+13,0x3M4N5O,Sacos de lixo deixados na areia,-24.555450421052633,-47.28389552631579,1,0,15/01/2021,44,7
+14,0x4N5O6P,Ave marinha ferida na praia,-24.458569789473685,-47.161608736842105,0,1,01/02/2021,55,2
+15,0x5O6P7Q,Resíduos plásticos na areia,-24.361689157894737,-47.03932194736842,1,0,15/03/2021,66,4
+16,0x6P7Q8R,Concentração de águas-vivas perto da costa,-24.26480852631579,-46.91703515789474,0,1,01/04/2021,77,6
+17,0x7Q8R9S,Lixo e tartaruga presa em rede de pesca,-24.16792789473684,-46.794748368421054,1,1,15/05/2021,88,8
+18,0x8R9S0T,Lixo espalhado pela areia,-24.071047263157897,-46.67246157894737,1,0,01/06/2021,99,10
+19,0x9S0T1U,Grande quantidade de lixo na praia,-23.97416663157895,-46.55017478947369,1,0,15/07/2021,11,3
+20,0x0T1U2V,Golfinhos encalhados na praia,-23.877286,-46.427888,0,1,01/08/2021,22,5
+21,0x1U2V3W,Sacos de lixo deixados na areia,-32.761869,-52.90742,1,0,15/09/2021,33,7
+22,0x2V3W4X,Ave marinha ferida na praia,-32.57778451282051,-52.796199820512825,0,1,01/10/2021,44,2
+23,0x3W4X5Y,Resíduos plásticos na areia,-32.393700025641024,-52.68497964102564,1,0,15/11/2021,55,4
+24,0x4X5Y6Z,Concentração de águas-vivas perto da costa,-32.209615538461534,-52.573759461538465,0,1,01/12/2021,66,6
+25,0x5Y6Z7A,Lixo e tartaruga presa em rede de pesca,-32.02553105128205,-52.46253928205128,1,1,15/01/2022,77,8
+26,0x6Z7A8B,Lixo espalhado pela areia,-31.84144656410256,-52.351319102564105,1,0,01/02/2022,88,10
+27,0x7A8B9C,Grande quantidade de lixo na praia,-31.657362076923075,-52.24009892307693,1,0,15/03/2022,99,3
+28,0x8B9C0D,Golfinhos encalhados na praia,-31.47327758974359,-52.128878743589745,0,1,01/04/2022,11,5
+29,0x9C0D1E,Sacos de lixo deixados na areia,-31.289193102564102,-52.01765856410257,1,0,15/05/2022,22,7
+30,0x0D1E2F,Ave marinha ferida na praia,-31.105108615384612,-51.906438384615385,0,1,01/06/2022,33,2
+31,0x1E2F3G,Resíduos plásticos na areia,-30.921024128205126,-51.79521820512821,1,0,15/07/2022,44,4
+32,0x2F3G4H,Concentração de águas-vivas perto da costa,-30.73693964102564,-51.68399802564103,0,1,01/08/2022,55,6
+33,0x3G4H5I,Lixo e tartaruga presa em rede de pesca,-30.552855153846153,-51.57277784615385,1,1,15/09/2022,66,8
+34,0x4H5I6J,Lixo espalhado pela areia,-30.368770666666666,-51.46155766666667,1,0,01/10/2022,77,10
+35,0x5I6J7K,Grande quantidade de lixo na praia,-30.18468617948718,-51.35033748717949,1,0,15/11/2022,88,3
+36,0x6J7K8L,Golfinhos encalhados na praia,-30.00060169230769,-51.23911730769231,0,1,01/12/2022,99,5
+37,0x7K8L9M,Sacos de lixo deixados na areia,-29.816517205128203,-51.12789712820513,1,0,15/01/2023,11,7
+38,0x8L9M0N,Ave marinha ferida na praia,-29.632432717948717,-51.01667694871795,0,1,01/02/2023,22,2
+39,0x9M0N1O,Resíduos plásticos na areia,-29.44834823076923,-50.905456769230774,1,0,15/03/2023,33,4
+40,0x0N1O2P,Concentração de águas-vivas perto da costa,-29.264263743589744,-50.79423658974359,0,1,01/04/2023,44,6
+41,0x1O2P3Q,Lixo e tartaruga presa em rede de pesca,-29.080179256410254,-50.683016410256414,1,1,15/05/2023,55,8
+42,0x2P3Q4R,Lixo espalhado pela areia,-28.896094769230768,-50.57179623076923,1,0,01/06/2023,66,10
+43,0x3Q4R5S,Grande quantidade de lixo na praia,-28.71201028205128,-50.460576051282054,1,0,15/07/2023,77,3
+44,0x4R5S6T,Golfinhos encalhados na praia,-28.527925794871795,-50.34935587179488,0,1,01/08/2023,88,5
+45,0x5S6T7U,Sacos de lixo deixados na areia,-28.34384130769231,-50.238135692307694,1,0,15/09/2023,99,7
+46,0x6T7U8V,Ave marinha ferida na praia,-28.15975682051282,-50.12691551282052,0,1,01/10/2023,11,2
+47,0x7U8V9W,Resíduos plásticos na areia,-27.975672333333332,-50.01569533333333,1,0,15/11/2023,22,4
+48,0x8V9W0X,Concentração de águas-vivas perto da costa,-27.791587846153845,-49.90447515384616,0,1,01/12/2023,33,6
+49,0x9W0X1Y,Lixo e tartaruga presa em rede de pesca,-27.60750335897436,-49.79325497435897,1,1,15/01/2024,44,8
+50,0x0X1Y2Z,Lixo espalhado pela areia,-27.423418871794873,-49.6820347948718,1,0,01/02/2024,55,10
+51,0x1Y2Z3A,Grande quantidade de lixo na praia,-27.239334384615383,-49.57081461538462,1,0,15/03/2024,66,3
+52,0x2Z3A4B,Golfinhos encalhados na praia,-27.0552498974359,-49.459594435897436,0,1,01/04/2024,77,5
+53,0x3A4B5C,Sacos de lixo deixados na areia,-26.87116541025641,-49.34837425641026,1,0,15/05/2024,88,7
+54,0x4B5C6D,Ave marinha ferida na praia,-26.687080923076923,-49.237154076923076,0,1,01/06/2024,99,2
+55,0x5C6D7E,Resíduos plásticos na areia,-26.502996435897437,-49.1259338974359,1,0,15/07/2024,11,4
+56,0x6D7E8F,Concentração de águas-vivas perto da costa,-26.31891194871795,-49.01471371794872,0,1,01/08/2024,22,6
+57,0x7E8F9G,Lixo e tartaruga presa em rede de pesca,-26.134827461538464,-48.90349353846154,1,1,15/09/2024,33,8
+58,0x8F9G0H,Lixo espalhado pela areia,-25.950742974358974,-48.79227335897436,1,0,01/10/2024,44,10
+59,0x9G0H1I,Grande quantidade de lixo na praia,-25.766658487179487,-48.68105317948718,1,0,15/11/2024,55,3
+60,0x0H1I2J,Golfinhos encalhados na praia,-25.582574,-48.569833,0,1,01/12/2024,66,5
+61,0x1I2J3K,Sacos de lixo deixados na areia,-22.853978,-42.243931,1,0,15/01/2020,77,7
+62,0x2J3K4L,Ave marinha ferida na praia,-22.731251237288138,-42.18915644067797,0,1,01/02/2020,88,2
+63,0x3K4L5M,Resíduos plásticos na areia,-22.608524474576274,-42.134381881355935,1,0,15/03/2020,99,4
+64,0x4L5M6N,Concentração de águas-vivas perto da costa,-22.485797711864407,-42.0796073220339,0,1,01/04/2020,11,6
+65,0x5M6N7O,Lixo e tartaruga presa em rede de pesca,-22.363070949152544,-42.02483276271187,1,1,15/05/2020,22,8
+66,0x6N7O8P,Lixo espalhado pela areia,-22.24034418644068,-41.97005820338983,1,0,01/06/2020,33,10
+67,0x7O8P9Q,Grande quantidade de lixo na praia,-22.117617423728817,-41.9152836440678,1,0,15/07/2020,44,3
+68,0x8P9Q0R,Golfinhos encalhados na praia,-21.99489066101695,-41.860509084745765,0,1,01/08/2020,55,5
+69,0x9Q0R1S,Sacos de lixo deixados na areia,-21.872163898305086,-41.80573452542373,1,0,15/09/2020,66,7
+70,0x0R1S2T,Ave marinha ferida na praia,-21.749437135593222,-41.750959966101696,0,1,01/10/2020,77,2
+71,0x1S2T3U,Resíduos plásticos na areia,-21.62671037288136,-41.69618540677966,1,0,15/11/2020,88,4
+72,0x2T3U4V,Concentração de águas-vivas perto da costa,-21.50398361016949,-41.64141084745763,0,1,01/12/2020,99,6
+73,0x3U4V5W,Lixo e tartaruga presa em rede de pesca,-21.381256847457628,-41.586636288135594,1,1,15/01/2021,11,8
+74,0x4V5W6X,Lixo espalhado pela areia,-21.258530084745765,-41.53186172881356,1,0,01/02/2021,22,10
+75,0x5W6X7Y,Grande quantidade de lixo na praia,-21.1358033220339,-41.477087169491526,1,0,15/03/2021,33,3
+76,0x6X7Y8Z,Golfinhos encalhados na praia,-21.013076559322034,-41.42231261016949,0,1,01/04/2021,44,5
+77,0x7Y8Z9A,Sacos de lixo deixados na areia,-20.89034979661017,-41.36753805084746,1,0,15/05/2021,55,7
+78,0x8Z9A0B,Ave marinha ferida na praia,-20.767623033898307,-41.31276349152542,0,1,01/06/2021,66,2
+79,0x9A0B1C,Resíduos plásticos na areia,-20.644896271186443,-41.25798893220339,1,0,15/07/2021,77,4
+80,0x0B1C2D,Concentração de águas-vivas perto da costa,-20.522169508474576,-41.203214372881355,0,1,01/08/2021,88,6
+81,0x1C2D3E,Lixo e tartaruga presa em rede de pesca,-20.399442745762713,-41.14843981355932,1,1,15/09/2021,99,8
+82,0x2D3E4F,Lixo espalhado pela areia,-20.27671598305085,-41.09366525423729,1,0,01/10/2021,11,10
+83,0x3E4F5G,Grande quantidade de lixo na praia,-20.153989220338985,-41.03889069491525,1,0,15/11/2021,22,3
+84,0x4F5G6H,Golfinhos encalhados na praia,-20.03126245762712,-40.98411613559322,0,1,01/12/2021,33,5
+85,0x5G6H7I,Sacos de lixo deixados na areia,-19.908535694915255,-40.929341576271185,1,0,15/01/2022,44,7
+86,0x6H7I8J,Ave marinha ferida na praia,-19.78580893220339,-40.87456701694915,0,1,01/02/2022,55,2
+87,0x7I8J9K,Resíduos plásticos na areia,-19.663082169491528,-40.819792457627116,1,0,15/03/2022,66,4
+88,0x7U8V9W,Lixo e tartaruga presa em rede de pesca,-19.54035540677966,-40.76501789830508,1,1,15/03/2022,66,4
+89,0x9K0L1M,Lixo e tartaruga presa em rede de pesca,-19.417628644067797,-40.71024333898305,1,1,01/04/2022,77,6
+90,0x0L1M2N,Lixo espalhado pela areia,-19.294901881355933,-40.655468779661014,1,0,15/05/2022,88,8
+91,0x1M2N3O,Grande quantidade de lixo na praia,-19.17217511864407,-40.60069422033898,1,0,01/06/2022,99,10
+92,0x2N3O4P,Golfinhos encalhados na praia,-19.049448355932203,-40.54591966101695,0,1,15/07/2022,11,3
+93,0x3O4P5Q,Sacos de lixo deixados na areia,-18.92672159322034,-40.49114510169492,1,0,01/08/2022,22,5
+94,0x4P5Q6R,Ave marinha ferida na praia,-18.803994830508476,-40.436370542372885,0,1,15/09/2022,33,7
+95,0x5Q6R7S,Resíduos plásticos na areia,-18.681268067796612,-40.38159598305085,1,0,01/10/2022,44,2
+96,0x6R7S8T,Concentração de águas-vivas perto da costa,-18.558541305084745,-40.326821423728816,0,1,15/11/2022,55,4
+97,0x7S8T9U,Lixo e tartaruga presa em rede de pesca,-18.43581454237288,-40.27204686440678,1,1,01/12/2022,66,6
+98,0x8T9U0V,Lixo espalhado pela areia,-18.313087779661018,-40.21727230508475,1,0,15/01/2023,77,8
+99,0x9U0V1W,Grande quantidade de lixo na praia,-18.190361016949154,-40.162497745762714,1,0,01/02/2023,88,10
+100,0x0V1W2X,Golfinhos encalhados na praia,-18.06763425423729,-40.10772318644068,0,1,15/03/2023,99,3
+101,0x1W2X3Y,Sacos de lixo deixados na areia,-17.944907491525424,-40.052948627118646,1,0,01/04/2023,11,5
+102,0x2X3Y4Z,Ave marinha ferida na praia,-17.82218072881356,-39.99817406779661,0,1,15/05/2023,22,7
+103,0x3Y4Z5A,Resíduos plásticos na areia,-17.699453966101697,-39.94339950847458,1,0,01/06/2023,33,2
+104,0x4Z5A6B,Concentração de águas-vivas perto da costa,-17.57672720338983,-39.88862494915254,0,1,15/07/2023,44,4
+105,0x5A6B7C,Lixo e tartaruga presa em rede de pesca,-17.454000440677966,-39.83385038983051,1,1,01/08/2023,55,6
+106,0x6B7C8D,Lixo espalhado pela areia,-17.331273677966102,-39.779075830508475,1,0,15/09/2023,66,8
+107,0x7C8D9E,Grande quantidade de lixo na praia,-17.20854691525424,-39.72430127118644,1,0,01/10/2023,77,10
+108,0x8D9E0F,Golfinhos encalhados na praia,-17.085820152542375,-39.66952671186441,0,1,15/11/2023,88,3
+109,0x9E0F1G,Sacos de lixo deixados na areia,-16.963093389830508,-39.61475215254237,1,0,01/12/2023,99,5
+110,0x0F1G2H,Ave marinha ferida na praia,-16.840366627118645,-39.55997759322034,0,1,15/01/2024,11,7
+111,0x1G2H3I,Resíduos plásticos na areia,-16.71763986440678,-39.505203033898304,1,0,01/02/2024,22,2
+112,0x2H3I4J,Concentração de águas-vivas perto da costa,-16.594913101694914,-39.45042847457627,0,1,15/03/2024,33,4
+113,0x3I4J5K,Lixo e tartaruga presa em rede de pesca,-16.47218633898305,-39.395653915254236,1,1,01/04/2024,44,6
+114,0x4J5K6L,Lixo espalhado pela areia,-16.349459576271187,-39.3408793559322,1,0,15/05/2024,55,8
+115,0x5K6L7M,Grande quantidade de lixo na praia,-16.226732813559323,-39.28610479661017,1,0,01/06/2024,66,10
+116,0x6L7M8N,Golfinhos encalhados na praia,-16.10400605084746,-39.231330237288134,0,1,15/07/2024,77,3
+117,0x7M8N9O,Sacos de lixo deixados na areia,-15.981279288135593,-39.1765556779661,1,0,01/08/2024,88,5
+118,0x8N9O0P,Ave marinha ferida na praia,-15.858552525423729,-39.121781118644066,0,1,15/09/2024,99,7
+119,0x9O0P1Q,Resíduos plásticos na areia,-15.735825762711865,-39.06700655932203,1,0,01/10/2024,11,2
+120,0x0P1Q2R,Concentração de águas-vivas perto da costa,-15.613099,-39.012232,0,1,15/11/2024,22,4
+121,0x1Q2R3S,Lixo e tartaruga presa em rede de pesca,-12.99372,-38.76364,1,1,01/12/2024,33,6
+122,0x2R3S4T,Lixo espalhado pela areia,-12.873258224489796,-38.68405244897959,1,0,15/01/2020,44,8
+123,0x3S4T5U,Grande quantidade de lixo na praia,-12.752796448979591,-38.60446489795918,1,0,01/02/2020,55,10
+124,0x4T5U6V,Golfinhos encalhados na praia,-12.632334673469387,-38.52487734693878,0,1,15/03/2020,66,3
+125,0x5U6V7W,Sacos de lixo deixados na areia,-12.511872897959183,-38.44528979591837,1,0,01/04/2020,77,5
+126,0x6V7W8X,Ave marinha ferida na praia,-12.391411122448979,-38.36570224489796,0,1,15/05/2020,88,7
+127,0x7W8X9Y,Resíduos plásticos na areia,-12.270949346938774,-38.28611469387755,1,0,01/06/2020,99,2
+128,0x8X9Y0Z,Concentração de águas-vivas perto da costa,-12.15048757142857,-38.20652714285715,0,1,15/07/2020,11,4
+129,0x9Y0Z1A,Lixo e tartaruga presa em rede de pesca,-12.030025795918368,-38.12693959183674,1,1,01/08/2020,22,6
+130,0x0Z1A2B,Lixo espalhado pela areia,-11.909564020408164,-38.04735204081633,1,0,15/09/2020,33,8
+131,0x1A2B3C,Grande quantidade de lixo na praia,-11.78910224489796,-37.96776448979592,1,0,01/10/2020,44,10
+132,0x2B3C4D,Golfinhos encalhados na praia,-11.668640469387755,-37.88817693877551,0,1,15/11/2020,55,3
+133,0x3C4D5E,Sacos de lixo deixados na areia,-11.548178693877551,-37.808589387755106,1,0,01/12/2020,66,5
+134,0x4D5E6F,Ave marinha ferida na praia,-11.427716918367347,-37.729001836734696,0,1,15/01/2021,77,7
+135,0x5E6F7G,Resíduos plásticos na areia,-11.307255142857143,-37.649414285714286,1,0,01/02/2021,88,2
+136,0x6F7G8H,Concentração de águas-vivas perto da costa,-11.186793367346938,-37.569826734693876,0,1,15/03/2021,99,4
+137,0x7G8H9I,Lixo e tartaruga presa em rede de pesca,-11.066331591836734,-37.490239183673474,1,1,01/04/2021,11,6
+138,0x8H9I0J,Lixo espalhado pela areia,-10.94586981632653,-37.410651632653064,1,0,15/05/2021,22,8
+139,0x9I0J1K,Grande quantidade de lixo na praia,-10.825408040816326,-37.331064081632654,1,0,01/06/2021,33,10
+140,0x0J1K2L,Golfinhos encalhados na praia,-10.704946265306122,-37.251476530612244,0,1,15/07/2021,44,3
+141,0x1K2L3M,Sacos de lixo deixados na areia,-10.58448448979592,-37.17188897959184,1,0,01/08/2021,55,5
+142,0x2L3M4N,Ave marinha ferida na praia,-10.464022714285715,-37.09230142857143,0,1,15/09/2021,66,7
+143,0x3M4N5O,Resíduos plásticos na areia,-10.34356093877551,-37.01271387755102,1,0,01/10/2021,77,2
+144,0x4N5O6P,Concentração de águas-vivas perto da costa,-10.223099163265307,-36.93312632653061,0,1,15/11/2021,88,4
+145,0x5O6P7Q,Lixo e tartaruga presa em rede de pesca,-10.102637387755102,-36.8535387755102,1,1,01/12/2021,99,6
+146,0x6P7Q8R,Lixo espalhado pela areia,-9.982175612244898,-36.7739512244898,1,0,15/01/2022,11,8
+147,0x7Q8R9S,Grande quantidade de lixo na praia,-9.861713836734694,-36.69436367346939,1,0,01/02/2022,22,10
+148,0x8R9S0T,Golfinhos encalhados na praia,-9.74125206122449,-36.61477612244898,0,1,15/03/2022,33,3
+149,0x9S0T1U,Sacos de lixo deixados na areia,-9.620790285714286,-36.53518857142857,1,0,01/04/2022,44,5
+150,0x0T1U2V,Ave marinha ferida na praia,-9.500328510204081,-36.45560102040817,0,1,15/05/2022,55,7
+151,0x1U2V3W,Resíduos plásticos na areia,-9.379866734693877,-36.37601346938776,1,0,01/06/2022,66,2
+152,0x2V3W4X,Concentração de águas-vivas perto da costa,-9.259404959183673,-36.29642591836735,0,1,15/07/2022,77,4
+153,0x3W4X5Y,Lixo e tartaruga presa em rede de pesca,-9.138943183673469,-36.21683836734694,1,1,01/08/2022,88,6
+154,0x4X5Y6Z,Lixo espalhado pela areia,-9.018481408163264,-36.13725081632653,1,0,15/09/2022,99,8
+155,0x5Y6Z7A,Grande quantidade de lixo na praia,-8.89801963265306,-36.057663265306125,1,0,01/10/2022,11,10
+156,0x6Z7A8B,Golfinhos encalhados na praia,-8.777557857142856,-35.978075714285715,0,1,15/11/2022,22,3
+157,0x7A8B9C,Sacos de lixo deixados na areia,-8.657096081632652,-35.898488163265306,1,0,01/12/2022,33,5
+158,0x8B9C0D,Ave marinha ferida na praia,-8.536634306122448,-35.818900612244896,0,1,15/01/2023,44,7
+159,0x9C0D1E,Resíduos plásticos na areia,-8.416172530612243,-35.73931306122449,1,0,01/02/2023,55,2
+160,0x0D1E2F,Concentração de águas-vivas perto da costa,-8.29571075510204,-35.65972551020408,0,1,15/03/2023,66,4
+161,0x1E2F3G,Lixo e tartaruga presa em rede de pesca,-8.175248979591837,-35.58013795918367,1,1,01/04/2023,77,6
+162,0x2F3G4H,Lixo espalhado pela areia,-8.054787204081633,-35.500550408163264,1,0,15/05/2023,88,8
+163,0x3G4H5I,Grande quantidade de lixo na praia,-7.934325428571428,-35.420962857142854,1,0,01/06/2023,99,10
+164,0x4H5I6J,Golfinhos encalhados na praia,-7.813863653061224,-35.34137530612245,0,1,15/07/2023,11,3
+165,0x5I6J7K,Sacos de lixo deixados na areia,-7.69340187755102,-35.26178775510204,1,0,01/08/2023,22,5
+166,0x6J7K8L,Ave marinha ferida na praia,-7.572940102040816,-35.18220020408163,0,1,15/09/2023,33,7
+167,0x7K8L9M,Resíduos plásticos na areia,-7.452478326530612,-35.10261265306122,1,0,01/10/2023,44,2
+168,0x8L9M0N,Concentração de águas-vivas perto da costa,-7.332016551020408,-35.02302510204082,0,1,15/11/2023,55,4
+169,0x9M0N1O,Lixo e tartaruga presa em rede de pesca,-7.211554775510204,-34.94343755102041,1,1,01/12/2023,66,6
+170,0x0N1O2P,Lixo espalhado pela areia,-7.091093,-34.86385,1,0,15/01/2024,77,8
+171,0x1O2P3Q,Grande quantidade de lixo na praia,-6.952309,-34.910461,1,0,01/02/2024,88,10
+172,0x2P3Q4R,Golfinhos encalhados na praia,-6.842974068965517,-35.04065044827586,0,1,15/03/2024,99,3
+173,0x3Q4R5S,Sacos de lixo deixados na areia,-6.733639137931034,-35.17083989655172,1,0,01/04/2024,11,5
+174,0x4R5S6T,Ave marinha ferida na praia,-6.624304206896552,-35.30102934482758,0,1,15/05/2024,22,7
+175,0x5S6T7U,Resíduos plásticos na areia,-6.514969275862069,-35.43121879310345,1,0,01/06/2024,33,2
+176,0x6T7U8V,Concentração de águas-vivas perto da costa,-6.405634344827586,-35.56140824137931,0,1,15/07/2024,44,4
+177,0x7U8V9W,Lixo e tartaruga presa em rede de pesca,-6.296299413793103,-35.69159768965517,1,1,01/08/2024,55,6
+178,0x8V9W0X,Lixo espalhado pela areia,-6.18696448275862,-35.82178713793103,1,0,15/09/2024,66,8
+179,0x9W0X1Y,Grande quantidade de lixo na praia,-6.077629551724137,-35.9519765862069,1,0,01/10/2024,77,10
+180,0x0X1Y2Z,Golfinhos encalhados na praia,-5.9682946206896546,-36.08216603448275,0,1,15/11/2024,88,3
+181,0x1Y2Z3A,Sacos de lixo deixados na areia,-5.8589596896551726,-36.21235548275862,1,0,01/12/2024,99,5
+182,0x2Z3A4B,Ave marinha ferida na praia,-5.74962475862069,-36.34254493103448,0,1,15/01/2020,11,7
+183,0x3A4B5C,Resíduos plásticos na areia,-5.640289827586207,-36.472734379310346,1,0,01/02/2020,22,2
+184,0x4B5C6D,Concentração de águas-vivas perto da costa,-5.530954896551724,-36.6029238275862,0,1,15/03/2020,33,4
+185,0x5C6D7E,Lixo e tartaruga presa em rede de pesca,-5.421619965517241,-36.73311327586207,1,1,01/04/2020,44,6
+186,0x6D7E8F,Lixo espalhado pela areia,-5.312285034482758,-36.86330272413793,1,0,15/05/2020,55,8
+187,0x7E8F9G,Grande quantidade de lixo na praia,-5.202950103448275,-36.993492172413795,1,0,01/06/2020,66,10
+188,0x8F9G0H,Golfinhos encalhados na praia,-5.093615172413793,-37.12368162068965,0,1,15/07/2020,77,3
+189,0x9G0H1I,Sacos de lixo deixados na areia,-4.98428024137931,-37.253871068965516,1,0,01/08/2020,88,5
+190,0x0H1I2J,Ave marinha ferida na praia,-4.8749453103448275,-37.38406051724138,0,1,15/09/2020,99,7
+191,0x1I2J3K,Resíduos plásticos na areia,-4.765610379310345,-37.51424996551724,1,0,01/10/2020,11,2
+192,0x2J3K4L,Concentração de águas-vivas perto da costa,-4.656275448275862,-37.6444394137931,0,1,15/11/2020,22,4
+193,0x3K4L5M,Lixo e tartaruga presa em rede de pesca,-4.54694051724138,-37.774628862068965,1,1,01/12/2020,33,6
+194,0x4L5M6N,Lixo espalhado pela areia,-4.437605586206896,-37.90481831034483,1,0,15/01/2021,44,8
+195,0x5M6N7O,Grande quantidade de lixo na praia,-4.328270655172414,-38.03500775862069,1,0,01/02/2021,55,10
+196,0x6N7O8P,Golfinhos encalhados na praia,-4.218935724137931,-38.16519720689655,0,1,15/03/2021,66,3
+197,0x7O8P9Q,Sacos de lixo deixados na areia,-4.109600793103448,-38.295386655172415,1,0,01/04/2021,77,5
+198,0x8P9Q0R,Ave marinha ferida na praia,-4.000265862068965,-38.42557610344828,0,1,15/05/2021,88,7
+199,0x9Q0R1S,Resíduos plásticos na areia,-3.890930931034483,-38.555765551724136,1,0,01/06/2021,99,2
+200,0x0R1S2T,Concentração de águas-vivas perto da costa,-3.781596,-38.685955,0,1,15/07/2021,11,4

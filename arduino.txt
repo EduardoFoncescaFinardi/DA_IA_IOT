@@ -1,0 +1,99 @@
+1 - declarar variáveis das portas, exemplo: int RED_LED = 4
+2 - criar struct RGB, exemplo: struct RGB {
+	bool red,
+  	bool yellow,
+  	bool green
+};
+
+3 - Criar array da struct RGB, exemplo: RGB colors[] = {
+  {HIGH,LOW,LOW},  
+  {HIGH,HIGH,LOW}, 
+  {LOW,HIGH,LOW},   
+  {HIGH,HIGH,HIGH}, 
+  {HIGH,LOW,HIGH}, 
+  {HIGH,LOW,HIGH}, 
+  {HIGH,HIGH,HIGH}, 
+};
+# CADA ELEMNTO DA ARRAY, REPRESENTA UMA COMBINAÇÃO DE ESTADOS DOS LEDS (definidos pela struct)
+
+4 - Criar vetor para armazenar os pinos dos leds, exemplo: int vetor[3] = {LED_RED,LED_GREEN,LED_BLUE};
+
+5 - Criar função setup, ela é executada uma vez quand o arduino é ligado. exemplo de for para estabiliciar se os pinos são output ou input. Exemplo: 
+void setup() {
+  for(int i = 0; i< 3; i++){
+    pinMode(vetor[i], OUTPUT);
+  }
+}
+
+6 - Declarar uma array de Durações, exemplo: int duracao[] = {
+  1000,
+  500,
+  300,
+  500,
+  1000,
+  1000,
+  500
+};
+
+7 - Criar função loop, ela é usada repetidamente após a função setup, no caso da função abaixo, um cáculo do tamanho da array e utilizamos um laço for para iterar sobre cada cor, chamando a função setColors, com os estados do led (outout ou input) e a duração que foi puxada da array de durações, exemplo: 
+void loop() {
+  int tamanho = sizeof(colors)/sizeof(colors[0]);
+
+  for(int i = 0; i < tamanho; i++){
+    setColors(colors[i].red,colors[i].green,colors[i].blue, duracao[i]);
+  }
+}
+
+8 - Função setColors está servindo para definir o estado dos leds, exemplo: void setColors(int estado_red, int estado_green, int estado_blue, int tempo){
+  digitalWrite(LED_RED,estado_red);
+  digitalWrite(LED_GREEN,estado_green);
+  digitalWrite(LED_BLUE,estado_blue); 
+  delay(tempo);
+}
+
+
+código pronto do treinamento: 
+int RED_LED = 4;
+int YELLOW_LED = 3;
+int GREEN_LED = 2;
+  
+struct RGB {
+	bool red;
+  	bool yellow;
+  	bool green;
+};
+
+RGB colors[] = {
+  {HIGH, LOW, LOW},
+  {LOW, HIGH, LOW},
+  {LOW, LOW, HIGH},
+};
+
+int vetor[3] = {RED_LED,YELLOW_LED,GREEN_LED};
+
+void setup() {
+  for(int i = 0; i< 3; i++){
+    pinMode(vetor[i], OUTPUT);
+  }
+}
+
+int duracao[] = {
+  	1000,
+	500,
+  	1000
+};
+
+void setColors(int estado_red, int estado_green, int estado_blue, int tempo){
+  digitalWrite(RED_LED,estado_red);
+  digitalWrite(YELLOW_LED,estado_green);
+  digitalWrite(GREEN_LED,estado_blue); 
+  delay(tempo);
+}
+
+void loop() {
+  int tamanho = sizeof(colors)/sizeof(colors[0]);
+
+  for(int i = 0; i < tamanho; i++){
+    setColors(colors[i].red,colors[i].yellow,colors[i].green, duracao[i]);
+  }
+}
